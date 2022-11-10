@@ -30,7 +30,7 @@
 <br/>
 
 <div align="center">
-	<img width="420px" height="180em" src="https://github-readme-stats.vercel.app/api?username=elkitoq&show_icons=true&theme=radical"/>
+	<img width="420px" height="180em" src="https://github-readme-stats.vercel.app/api?username=elkitoq&show_icons=true"/>
 	<img width="420px" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elkitoq&theme=buefy&layout=compact" />
 </div>
 
