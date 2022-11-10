@@ -14,6 +14,7 @@
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Chakra UI](https://img.shields.io/badge/-ChakraUi-333333?style=flat&logo=chakraui)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+  ![Express.js](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 	![Next](https://img.shields.io/badge/-Next-333333?style=flat&logo=next)
 - 🛢 &nbsp;
@@ -28,9 +29,9 @@
 <br/>
 <br/>
 
-<div>
-	<img width:"420px" height="180em" src="https://github-readme-stats.vercel.app/api?username=elkitoq&show_icons=true&theme=radical"/>
-	<img width:"420px" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elkitoq&theme=buefy&layout=compact" />
+<div style="display: flex; flex-direction: row">
+	<img width:"420px !important" height="180em" src="https://github-readme-stats.vercel.app/api?username=elkitoq&show_icons=true&theme=radical"/>
+	<img width:"420px !important" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elkitoq&theme=buefy&layout=compact" />
 </div>
 
 	
@@ -41,6 +42,6 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-	<a href="https://www.linkedin.com/in/victor-adrian-escudero-93718a151"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Victor%20Escudero-blue?style=flat-square&logo=linkedin"></a>
-	<a href="mailto:elkitoq@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-elkitoq@gmail.com-blue?style=flat-square&logo=gmail"></a>
+	<a href="https://www.linkedin.com/in/victor-adrian-escudero-93718a151"><img height="30px" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Victor%20Escudero-blue?style=flat-square&logo=linkedin"></a>
+	<a href="mailto:elkitoq@gmail.com"><img height="30px" alt="Email" src="https://img.shields.io/badge/Email-elkitoq@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
