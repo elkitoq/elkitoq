@@ -25,7 +25,6 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![![GitHub Streak](https://streak-stats.demolab.com?user=herreraemanuel&theme=highcontrast&hide_border=true&locale=es&mode=weekly&border=DD2727)](https://git.io/streak-stats)
 
 <br/>
 <br/>
