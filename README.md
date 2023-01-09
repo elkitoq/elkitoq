@@ -30,8 +30,9 @@
 <br/>
 
 <div align="center">
-	<img width="420px" height="180em" src="https://streak-stats.demolab.com?user=elkitoq"/>
+	<img width="420px" height="180em" src="https://github-readme-stats.vercel.app/api?username=elkitoq&count_private=true"/>
 	<img width="420px" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elkitoq&theme=buefy&layout=compact" />
+	<img width="420px" height="180em" src="https://streak-stats.demolab.com?user=elkitoq"/>
 </div>
 
 	
