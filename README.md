@@ -16,7 +16,7 @@
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![Express.js](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-	![Next](https://img.shields.io/badge/-Next-333333?style=flat&logo=next)
+	![Next](https://img.shields.io/badge/-Next-333333?style=flat&logo=next.js)
 - 🛢 &nbsp;
 	![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
